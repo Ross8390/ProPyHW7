@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+.idea
+/workspace.xml
+env/
+documents/
+__pycache__/
+.pytest_cache
